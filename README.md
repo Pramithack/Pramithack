@@ -1,28 +1,26 @@
-# 👋 Hi, I'm Pramitha 
+# 👋 Hi, I'm Pramitha
 
 💻 **Software Developer Apprentice at Fidelity Investments**  
-🚀 Passionate about Full-Stack Development, Artificial Intelligence & Enterprise Applications
+🚀 Passionate about Full-Stack Development, Artificial Intelligence, Data Analytics & Cloud Technologies
 
-I'm currently working as a Software Developer Apprentice at Fidelity Investments, contributing to enterprise web applications using Angular, REST APIs, and Agile methodologies. I collaborate with cross-functional teams, participate in Scrum sprints, and use Git and GitHub for version control and collaborative development to deliver high-quality software solutions. Beyond my current role, I'm passionate about Artificial Intelligence, Data Analytics, and Cloud technologies, and I'm always eager to learn, innovate, and build scalable, user-centric applications. I'm currently looking for opportunities where I can apply my skills, contribute to impactful projects, and continue growing as a software professional.
+I'm currently working as a Software Developer Apprentice at Fidelity Investments, contributing to enterprise web applications using Angular, REST APIs, and Agile methodologies. I collaborate with cross-functional teams, participate in Scrum sprints, and use Git and GitHub for version control and collaborative development to deliver high-quality software solutions.
+
+Beyond my current role, I'm passionate about Artificial Intelligence, Data Analytics, and Cloud technologies. I enjoy exploring AI-driven solutions, analyzing data to uncover meaningful insights, and continuously learning modern technologies to build scalable, user-centric applications.
+
+💼 **I'm currently looking for opportunities where I can apply my skills, contribute to impactful projects, and continue growing as a software professional.**
 
 ---
 
 ## 🚀 About Me
 
 - 💼 Software Developer Apprentice @ Fidelity Investments
-- 🌱 Currently working with Angular, REST APIs & Agile
-- 💻 Interested in Full-Stack Development, AI and Cloud Technologies
-- 🤖 Love building AI-powered applications
+- 🌱 Working with Angular, REST APIs, Git, GitHub & Agile methodologies
+- 🤝 Collaborating with cross-functional teams in Scrum sprints
+- 🤖 Passionate about Artificial Intelligence & Machine Learning
+- 📊 Interested in Data Analytics & Data Visualization
+- ☁️ Exploring Cloud Technologies
+- 💡 Love solving real-world problems through software development
 - 📍 Karnataka, India
-- 📫 Reach me at: **pramithackharvi@gmail.com**
-
----
-
-## 🌐 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pramitha-ck-8b6333232)
-
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pramithackharvi@gmail.com)
 
 ---
 
@@ -66,20 +64,18 @@ I'm currently working as a Software Developer Apprentice at Fidelity Investments
 # 🚀 Featured Projects
 
 ### 📄 SmartPDF QueryBot
-AI-powered document question-answering application using LangChain, OpenAI API, FAISS, Streamlit and Python.
+An AI-powered document question-answering system built using **Python, LangChain, OpenAI API, FAISS, and Streamlit**, enabling users to upload PDF documents and retrieve context-aware answers through semantic search.
 
 ### 🛒 E-commerce Price Comparison Platform
-Developed using Python, Flask, HTML, CSS, JavaScript and BeautifulSoup for comparing product prices across multiple e-commerce websites.
+Developed a web-based application using **Python, Flask, HTML, CSS, JavaScript, and BeautifulSoup** to compare product prices across multiple e-commerce websites through web scraping.
 
 ---
 
 # 📜 Certifications
 
-🏅 IBM Full Stack Software Developer Professional Certificate
-
-🏅 Google AI Professional Certificate
-
-🏅 Data Analytics Training – Accenture & NASSCOM Foundation
+- 🏅 IBM Full Stack Software Developer Professional Certificate
+- 🏅 Google AI Professional Certificate
+- 🏅 Data Analytics Training – Accenture & NASSCOM Foundation
 
 ---
 
@@ -93,6 +89,15 @@ Developed using Python, Flask, HTML, CSS, JavaScript and BeautifulSoup for compa
 
 ---
 
+## 🌐 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pramitha-ck-8b6333232)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pramithackharvi@gmail.com)
+
+📧 **Email:** pramithackharvi@gmail.com
+
+---
+
 ![](https://komarev.com/ghpvc/?username=Pramithack&color=blue&style=for-the-badge)
 
-⭐ *Always learning, building and growing as a Software Developer.*
+⭐ *Thanks for visiting my profile! Feel free to connect with me and explore my repositories.*
