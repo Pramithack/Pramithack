@@ -3,7 +3,7 @@
 💻 **Software Developer Apprentice at Fidelity Investments**  
 🚀 Passionate about Full-Stack Development, Artificial Intelligence & Enterprise Applications
 
-I'm an Information Science & Engineering graduate with hands-on experience building enterprise web applications using Angular, REST APIs, and Agile methodologies. I enjoy solving real-world problems through software development and continuously learning modern technologies.
+I'm currently working as a Software Developer Apprentice at Fidelity Investments, contributing to enterprise web applications using Angular, REST APIs, and Agile methodologies. I collaborate with cross-functional teams, participate in Scrum sprints, and use Git and GitHub for version control and collaborative development to deliver high-quality software solutions. Beyond my current role, I'm passionate about Artificial Intelligence, Data Analytics, and Cloud technologies, and I'm always eager to learn, innovate, and build scalable, user-centric applications. I'm currently looking for opportunities where I can apply my skills, contribute to impactful projects, and continue growing as a software professional.
 
 ---
 
