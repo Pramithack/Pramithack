@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Pramitha C K
+# 👋 Hi, I'm Pramitha 
 
 💻 **Software Developer Apprentice at Fidelity Investments**  
 🚀 Passionate about Full-Stack Development, Artificial Intelligence & Enterprise Applications
